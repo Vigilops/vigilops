@@ -1,4 +1,4 @@
-# polsia-next-v2
+ # polsia-next-v2
 
 The canonical Next.js template for Polsia-generated customer apps.
 
