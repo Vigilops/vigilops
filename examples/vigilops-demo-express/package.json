@@ -4,7 +4,7 @@
   "private": true,
   "description": "Quickstart fixture for VigilOps — a minimal Node project with a known-vulnerable Express.js install so users can see `vigilops scan .` produce reachable output via the express-qs prototype-pollution class.",
   "dependencies": {
-    "express": "4.18.2"
+    "express": "5.2.1"
   },
   "devDependencies": {
     "minimist": "0.0.8"
